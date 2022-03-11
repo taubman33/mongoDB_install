@@ -50,3 +50,15 @@ You should notice that your command prompt is gone, replaced with a `>`.
 This means the MongoDB shell installed correctly. Press `Ctrl + c` to get back
 to your terminal.
 
+
+If there are any further errors, we may have to run
+
+```
+
+sudo apt update
+
+sudo apt install -y mongodb
+
+```
+
+Please let your instructor know if you need to run these additional commands
